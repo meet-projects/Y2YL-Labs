@@ -1,4 +1,4 @@
-# Bootstrap - Lab
+# Javascript I - Lab
 
 ## Objective: 
 In this lab, you will ...

@@ -1,30 +1,15 @@
-# Javascript I - Lab
+# Heroku 
 
-## Objective: 
-In this lab, you will ...
+## What is this? 
+Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.  
+Deploying applications on the cloud (on the internet), can be done via many different platforms, Heroku is one of them.
 
+## Where is this used?
+This is used for whenever a developer would like to publish his/her website and make it available for everyone on the internet.
 
-
-
-
-<img src="https://i.ytimg.com/vi/1IsL6g2ixak/maxresdefault.jpg" width="400">
-
-
-
+## Resources for you to learn this:
+ - [Heroku's step by step Lecture by MEET](https://docs.google.com/presentation/d/1nUqZOhiinwz3Zz2wTwFpGaVV7mZLXqkiiTtmFgIUukM/edit?usp=sharing)
 
 
-## Instructions:
-
-
-
-
-
-##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
- 
-
-
-## Bonus:
-
-<img src="https://www.c-sharpcorner.com/UploadFile/201fc1/programming-in-java-using-the-mvc-architecture/Images/mvc%20framework.jpg" width="350">
+## Hypothetical projects you could do!
+- You can focus and build your website of your choosing. And finally deploy it on Heroku and open it to the public.

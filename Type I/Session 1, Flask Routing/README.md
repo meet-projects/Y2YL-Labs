@@ -1,22 +1,22 @@
 # Flask Routing - Lab
 
 ## Objective: 
-In this lab, you will ...
+In this lab, you will help an astronaut to login using his username and password, to the Nassa's home page.
 
 
 
 
 
-<img src="https://i.ytimg.com/vi/1IsL6g2ixak/maxresdefault.jpg" width="400">
+<img src="https://twitter.com/Iamherox/status/1276190918509506560/photo/1" width="400">
 
 
 
 
 
 ## Instructions:
-1. Open a the repl.it https://repl.it/@JianaAbuNassar/Lab1-FlaskRouting#main.py and fork it.
-2. Create a new HTML login page inside the templates, using login forms.
-3. 
+1. Open the repl.it https://repl.it/@JianaAbuNassar/Lab1-FlaskRouting#main.py and fork it.
+2. Create a new HTML login page inside the templates, using login forms. (Login.html)
+3. Create another HTML page inside the templates, that is going to be the Home Page for Nassa's details/pictures/.. (Portal.html)
 4. 
 
 

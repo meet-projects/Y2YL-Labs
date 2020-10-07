@@ -14,7 +14,7 @@ In this lab, you will help an astronaut to login using his username and password
 
 
 ## Instructions:
-1. Open the repl.it https://repl.it/@JianaAbuNassar/Lab1-FlaskRouting#main.py and fork it.
+1. Open the repl.it https://repl.it/@JianaAbuNassar/Project#main.py and fork it.
 2. Create a new HTML login page inside the templates, using login forms. (Login.html)
 3. Create another HTML page inside the templates, that is going to be the Home Page for Nassa's details/pictures/.. (Portal.html)
 4. i. Inside "main.py" create a new route to path: '/'. 

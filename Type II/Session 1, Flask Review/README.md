@@ -6,7 +6,7 @@ The website will contain secrets, each one of them will be protected by a differ
 
 In general terms, your website would look like this:
 
-<img src="https://i.ibb.co/DWY9sbr/website-diagram.png" alt="website-diagram" border="0" width="400">
+<img src="https://i.ibb.co/DWY9sbr/website-diagram.png" alt="website-diagram" border="0" width="700">
 
 Currently we are going to set the secrets statically, which means we will define the secrets, and users are not able to add new secrets.
 

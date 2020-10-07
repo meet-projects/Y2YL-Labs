@@ -1,4 +1,4 @@
-# Javascript I - Lab
+# Flask Routing - Lab
 
 ## Objective: 
 In this lab, you will ...
@@ -14,6 +14,10 @@ In this lab, you will ...
 
 
 ## Instructions:
+1. Open a the repl.it https://repl.it/@JianaAbuNassar/Lab1-FlaskRouting#main.py and fork it.
+2. Open a new HTML file inside the templates folder and name it "login.html".
+3. Inside of "login.html", create a page with a login form
+4. 
 
 
 

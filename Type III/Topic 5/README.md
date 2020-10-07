@@ -1,30 +1,30 @@
-# Javascript I - Lab
+# Sentiment Analysis
 
-## Objective: 
-In this lab, you will ...
-
-
+## What is this? 
+Sentiment analysis (also known as opinion mining) uses natural language processing and machine learning to interpret and classify emotions in subjective information. 
 
 
+## Where is this used?
+Sentiment analysis is often used to help businesses detect sentiment in customer feedback.
 
-<img src="https://i.ytimg.com/vi/1IsL6g2ixak/maxresdefault.jpg" width="400">
+### Sample Website(s)
+- https://www.danielsoper.com/sentimentanalysis/default.aspx
 
-
-
-
-
-## Instructions:
-
-
-
-
-
-##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
- 
+## Resources for you to learn this:
+**Articles:** 
+- https://www.iflexion.com/blog/sentiment-analysis-python
+- https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
+- https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python
 
 
-## Bonus:
+**Videos:**
+- https://www.youtube.com/watch?v=O_B7XLfx0ic
 
-<img src="https://www.c-sharpcorner.com/UploadFile/201fc1/programming-in-java-using-the-mvc-architecture/Images/mvc%20framework.jpg" width="350">
+
+
+## Hypothetical projects you could do!
+- Mood detectors. 
+- Tweets analysis.
+- Take an input for an amazon link (for a page with customer feedback), collect all of the feedback, and analyze if in general the product has a good review or not.
+
+

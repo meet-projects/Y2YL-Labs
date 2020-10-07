@@ -8,6 +8,9 @@ Image recognition, in the context of machine vision, is the ability of software 
 Here’s an introduction article about understanding [image recognition and its uses](https://www.einfochips.com/blog/understanding-image-recognition-and-its-uses/).
 
 
+### Sample Website(s)
+- https://tineye.com
+
 ## Resources for you to learn this:
 **Articles:**
  - https://github.com/fchollet/keras-resources

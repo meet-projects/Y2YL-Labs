@@ -1,4 +1,4 @@
-# Javascript I - Lab
+# Flask Review - Lab
 
 ## Objective: 
 In this lab, you will create a secrets' website called: Confession Bear!
@@ -10,6 +10,8 @@ In general terms, your website would look like this:
 
 Currently we are going to set the secrets statically, which means we will define the secrets, and users are not able to add new secrets.
 
+#### Important keywords:
+HTML form, flask forms, flask routing, redirect, POST, GET.
 
 ## Instructions:
 
@@ -44,4 +46,18 @@ Currently we are going to set the secrets statically, which means we will define
 
 ## Bonus:
 
-<img src="https://www.c-sharpcorner.com/UploadFile/201fc1/programming-in-java-using-the-mvc-architecture/Images/mvc%20framework.jpg" width="350">
+Implement any (or all) of the following features: (With no specific order)
+
+* Add an 'add secret' page, that would allow users to add new secrets and set passwords for them.
+  - Consider what happens when two users choose the same upload password.
+* Add the option to have certain secrets be viewable at certain times of day. (i.e. Have a secret: "I hate mornings" be viewable only between 7-10AM.)
+* Read about cookies, and make it such that the website remembers the last password you inserted.
+* Improve the UI and UX of the website, add CSS and JS to make it look slick and be responsive.
+* Change the website such that after 60 seconds the secret closes and the user is sent back to the homepage.
+* Change the website such that two secrets can be displayed at the same time. Each panel should have a password input, and they should appear side by side.
+
+Note: All those features require multiple steps in order to implement, start out by planning those steps, and then implement them, make sure to test your code often.
+
+#### Important Keywords (for bonus):
+
+Cookies, iframe, css, javascript, datetime

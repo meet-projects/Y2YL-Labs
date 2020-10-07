@@ -1,7 +1,7 @@
 # Flask Routing - Lab
 
 ## Objective: 
-In this lab, you will help an astronaut to login using his username and password, to the Nasa's home page.
+In this lab, you will help an astronaut to login using his username and password, to the Nasa's home page by using flask routing.
 
 
 
@@ -35,4 +35,3 @@ In this lab, you will help an astronaut to login using his username and password
 
 ## Bonus:
 
-<img src="https://www.c-sharpcorner.com/UploadFile/201fc1/programming-in-java-using-the-mvc-architecture/Images/mvc%20framework.jpg" width="350">

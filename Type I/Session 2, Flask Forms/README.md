@@ -21,6 +21,7 @@ In this lab, you will ...
     i. Don't forget, to check the method (Get/Post) in order to continue to the next steps.
     ii. Assign allowed usernames and passwords, which means; create variables defining the correct ones.
     iii. Check if the information is correct. If it is → proceed to logging in the portal(home page). If not → retry
+5. When returning the "Portal.html", pass the username, so it will display “Welcome, [username]” when logged in.
 
 
 

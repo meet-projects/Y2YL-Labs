@@ -6,7 +6,7 @@ The website will contain secrets, each one of them will be protected by a differ
 
 In general terms, your website would look like this:
 
-<img src="https://i.ibb.co/WKmzXCY/website-diagram.png" alt="website-diagram" border="0" width="500">
+<img src="https://i.ibb.co/DWY9sbr/website-diagram.png" alt="website-diagram" border="0" width="400">
 
 Currently we are going to set the secrets statically, which means we will define the secrets, and users are not able to add new secrets.
 
@@ -22,7 +22,7 @@ Currently we are going to set the secrets statically, which means we will define
    - Run your code to make sure that it's working in this stage! :)
   
 3. Create a bunch of secrets.
-   - In your code, create a CONST variable, containing a dictionary, the keys for dictionary are passwords for the secrets, the values are the contents of each secret. (Have at least 2 secrets)
+   - In your code, create a variable, containing a dictionary, the keys for dictionary are passwords for the secrets, the values are the contents of each secret. (Have at least 2 secrets)
    - Create a template for the secret presentation page. (Make sure you can dynamically insert the secret's contents.)
    - Link the template to the following url: "/password_input".
    - Run your code to make sure that it's working in this stage! :)

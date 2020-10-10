@@ -1,11 +1,11 @@
-# Javascript I - Lab
+# APIs contintued - Lab
 
 ## Objective: 
 In this lab, you will create an application showcasing the cosmos itself.
 We will create a picture gallery using data from NASA's API.
 
 #### Important Keywords:
-API, requests, get, HTTP
+API, requests, get, HTTP, python
 
 
 ## Instructions:

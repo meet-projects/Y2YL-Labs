@@ -41,5 +41,5 @@ Implement any (or all) of the following features: (With no specific order)
 * Allow users to click on pictures in the gallery in order to spotlight them (Meaning the image will be centered, large, and the only image shown after clicking).
   - Also allow users to click the photo again to go back to gallery view.
 
-Important keywords (for bonus):
+#### Important keywords (for bonus):
 ajax, caching, JS, CSS

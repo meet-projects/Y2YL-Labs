@@ -21,7 +21,7 @@ In this lab, you will ...
 4. Inside the login fuction:
     i. Don't forget, to check the method (Get/Post) in order to continue to the next steps.
     ii. Assign allowed usernames and passwords, which means; create variables defining the correct username and password that should be allowed if entered.
-        - For example: 
+        - For example:  
         ```python
         username = "Jiana"
         password = "meetyear2022"

@@ -16,11 +16,11 @@ In this lab, you will help an astronaut to login using his username and password
 ## Instructions:
 1. Open the repl.it https://repl.it/@JianaAbuNassar/Project#main.py and fork it.
 2. Create a new HTML login page inside the templates, using login forms. (Login.html)
-3. Create another HTML page inside the templates, that is going to be the Home Page for Nassa's details/pictures/.. (Portal.html)
-4. i. Inside "main.py" create a new route to path: '/'. 
-   ii. Create a function that connects the "Login.html" to this route, using "render_template".
-5. i. Create another route to path: '/portal'. 
-   ii. Create a function that connects the "Portal.html" to this route.
+3. Create another HTML page inside the templates, that is going to be the Home Page for NASA's details/pictures/.. (Portal.html)
+4. Inside "main.py" create a new route to path: '/'. 
+   - Create a function that connects the "Login.html" to this route, using "render_template".
+5. Create another route to path: '/portal'. 
+   - Create a function that connects the "Portal.html" to this route.
 
 
 

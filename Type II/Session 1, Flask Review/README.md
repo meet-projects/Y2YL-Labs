@@ -11,7 +11,7 @@ In general terms, your website would look like this:
 Currently we are going to set the secrets statically, which means we will define the secrets, and users are not able to add new secrets.
 
 #### Important keywords:
-HTML form, flask forms, flask routing, redirect, POST, GET.
+HTML form, flask forms, flask routing, render_template,redirect, POST, GET.
 
 ## Instructions:
 
@@ -26,14 +26,15 @@ HTML form, flask forms, flask routing, redirect, POST, GET.
 3. Create a bunch of secrets.
    - In your code, create a variable, containing a dictionary, the keys for dictionary are passwords for the secrets, the values are the contents of each secret. (Have at least 2 secrets)
    - Create a template for the secret presentation page. (Make sure you can dynamically insert the secret's contents.)
-   - Link the template to the following url: "/password_input".
+   - Link the template to the following url: `"/password_input"`.
    - Run your code to make sure that it's working in this stage! :)
 
 4. Edit the page to process the form.
-   - Allow the POST method for the "/password_input" page.
-   - Edit the teamplate of the homepage, such that the form sends a POST request to "/password_input"
-   - Edit the "/password_input" function, such that it compares to see whether the password received from the request matches one of the passwords that we have. If the password matches, you should show the appropriate secret, otherwise, you should show the homepage instead.
-   - Run your code to make sure that it's 
+   - Allow the `POST` method for the `"/password_input"` page.
+   - Edit the template of the homepage, such that the form sends a `POST` request to `"/password_input"`.
+   - Edit the `"/password_input"` function, such that it compares to see whether the password received from the request matches one of the passwords that we have. 
+      - If the password matches, you should show the appropriate secret, otherwise, you should show the homepage instead.
+   - Run your code to make sure that it's working in this stage!
  
 
 

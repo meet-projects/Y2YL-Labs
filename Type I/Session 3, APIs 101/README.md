@@ -9,7 +9,7 @@ In this lab, you will:
 
 
 
-<img src="https://www.popsci.com/resizer/sLoHrJJ8stQeU6XEhU6jmfkdzjM=/760x506/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/WCWFYS3C6MNHW6RTXZJ5F6EU2M.gif" width="400">
+<img src="https://lh3.googleusercontent.com/proxy/Soeyj157MiKCttuqcNNOgJMN8DPNMoFl0ggcWhu72D79hNyGPXbT_NFY13YnNsIiMdCiggTJeYcHnhd7r8yricQLGuwAsBhIvDtW7IvYVy8td6rV7bUIk6PBqnjygwPD1g" width="400">
 
 
 

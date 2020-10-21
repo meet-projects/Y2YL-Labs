@@ -26,8 +26,8 @@ In this lab, you will:
 
 ### Part 2 - using the API:
 - The display() function should:
- - Retrieve the information from the API (use the requests.get() function) and parse its content (parsing a JSON string means turning it into a python dictionary).
- - Return the link of the first picture. (http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/fcam/FLB_486265257EDR_F0481570FHAZ00323M_.JPG) 
+  - Retrieve the information from the API (use the requests.get() function) and parse its content (parsing a JSON string means turning it into a python dictionary).
+  - Return the link of the first picture. (http://mars.jpl.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/fcam/FLB_486265257EDR_F0481570FHAZ00323M_.JPG) 
 
 ### Part 3 - Building the website:
 - Create an HTML template show_pic.html that will display the picture (use flask variables, how?).
@@ -45,7 +45,7 @@ In this lab, you will:
 
 ## Bonus:
 - Create another route (use a variable route, receives an integer variable called picture_id) which executes the function picture(picture_id) (which you’ll need to define).
- - The function picture(picture_id) will:
+- The function picture(picture_id) will:
   - Render the template show_picture.html.
   - Pass the link of the picture to the template so the picture would be displayed.
 - To the template show_template.html, add navigation buttons (left and right) to move to the next/previous picture.

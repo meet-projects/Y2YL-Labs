@@ -1,9 +1,7 @@
 # Databases - Lab
-## TEMP VERSION -- NOT FINAL
-## Objective: 
-In this lab, we will enhance the Confession bear website that we worked on in the previous lab.
-We will move the storage of the previous lab from a dictionary to our database.
 
+## Objective: 
+In this lab, you will create a database for the amazing subscribers of the imaginary organization: Humans for a non-specific cause.
 You will get to practice a bunch of your database skills, which is great!
 
 #### Important keywords:
@@ -13,21 +11,15 @@ databases, sqlalchemy, schema, model, query
 ## Instructions:
 
 1. Create 2 new files called `models.py`, and `database.py`.
-   - `models.py` will contain our schemas.
+   - `models.py` will contain our chemas.
    - `database.py` will contain our database actions. 
-2. Create a new schema (model) for the subscribers, the model should contain: password, confession.
+2. Create a new schema (model) for the subsribers, the model should contain: username, password. (username must be unique.)
 3. Create the following functions in `database.py`:
-   - `add_confession(confession, password)` This function will create a new confession with the information given as parameters, it will create and return the confession_id for the specific confession.
-   - `remove_confession(password)` This function will remove all the confessions from the database which matches the given password.
-   - `get_confession(password)` This function returns the confession field if there is a confession matching the password given.
-4. Make sure to test your code, use your functions to add rows to the database, and then use the other functions to interact with the rows you have added.
-   - At this stage you should add all the information about secrets that you prevously stored in your dictionary.
-
-5. Now let's combine the newly created database with the website from Lab1.
-   - In order to do this step, you must first complete the mandatory part of Lab1.
-   - Copy `models.py` and `database.py` into your Lab1 project.
-   - Import `database` in your `app.py` file.
-   - Use your database functions to add 
+   - `add_subscriber(username, password)` This function will create a new subscriber with the information given as parameters.
+   - `remove_subscriber(username)` This function will remove the subscriber from the database which has the given username.
+   - `get_all_subscribers()` This function will return a list of all the subscribers' usernames.
+   - `validate_subscriber(username, attempt_password)` This function returns True if there is a user matching the username and the password given is that user's password, returns False otherwise.
+4. Make sure to test your code, user your functions to add rows to the database, and then use the other functions to interact with the rows you have added.
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks

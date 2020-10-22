@@ -16,7 +16,7 @@ Here’s an introduction article about understanding [image recognition and its 
  - https://github.com/fchollet/keras-resources
  - https://keras.io/examples/vision/image_classification_from_scratch/
  - https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
- - Face_recognition library (Python): https://pypi.org/project/face-recognition/
+ - Face_recognition library (Python): https://pypi.org/project/face-recognition/ (https://gist.github.com/Legorooj/085127b6168d1fda62438c945e02fabc read this for installation on windows.)
 
 **Videos:**
  - https://www.youtube.com/watch?v=44U8jJxaNp8

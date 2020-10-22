@@ -1,4 +1,4 @@
-# Image Recognition 
+# Speech Recognition 
 
 ## What is this? 
 Speech recognition is a technology that enables a machine or program to identify and understand words or phrases from spoken language and convert them into machine readable format.

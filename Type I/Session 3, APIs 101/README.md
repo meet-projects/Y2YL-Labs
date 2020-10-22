@@ -1,4 +1,4 @@
-# Javascript I - Lab
+# APIs 101 - Lab
 
 ## Objective: 
 In this lab, you will:

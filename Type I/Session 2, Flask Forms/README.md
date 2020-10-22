@@ -1,7 +1,7 @@
 # Flask Forms - Lab
 
 ## Objective: 
-In this lab, you will ...
+In this lab, you will continue working on your previous lab, and add a login form to allow **NASA employees only** to enter!
 
 
 

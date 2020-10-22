@@ -8,7 +8,7 @@ Databases are used just about everywhere including banks, retail, websites and w
 
 ## Resources for you to learn this:
  - [Databases Lecture by MEET](https://docs.google.com/presentation/d/1Sa1Mj6QnHZnPC9NZLqPeTO4FjtaDZR7PP1nlq006l2o/edit?usp=sharing)
- - [Database Pre-recorded lecture by Noam](TBD)
+ - [Database Pre-recorded lecture by Noam](https://drive.google.com/file/d/1VHcZvHDZ16D3davjFEwLS90oMX2yN5yi/view?usp=sharing)
 
 ## Hypothetical projects you could do!
 - A social media web application with a database connected to login. 

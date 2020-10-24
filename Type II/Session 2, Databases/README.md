@@ -21,13 +21,13 @@ databases, sqlalchemy, schema, model, query
    - `remove_confession(password)` This function will remove all the confessions from the database which matches the given password.
    - `get_confession(password)` This function returns the confession field if there is a confession matching the password given.
 4. Make sure to test your code, use your functions to add rows to the database, and then use the other functions to interact with the rows you have added.
-   - At this stage you should add all the information about secrets that you prevously stored in your dictionary.
+   - Move all information stored in the secrets dictionary to the database, each entry should be a row in the confessions table.
 
 5. Now let's combine the newly created database with the website from Lab1.
    - In order to do this step, you must first complete the mandatory part of Lab1.
    - Copy `models.py` and `database.py` into your Lab1 project.
    - Import `database` in your `app.py` file.
-   - Use your database functions to add 
+   - Replace the use of a dictionary with the appropriate database functions.
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks
@@ -38,22 +38,6 @@ databases, sqlalchemy, schema, model, query
 
 Implement any (or all) of the following features: (With no specific order)
 
-* Add `join_time` to the subscriber schema, this column represents the join time of a user.
-  - The join time is added and calculated automatically by `add_subscriber`
-  - `get_all_subscribers` now returns the list ordered by the join time, newest first.
-* Add a new schema for branches of the organization. Branches have an id, a name, an address, and a motto.
-  - Each subscriber belongs to address, change the subscriber schema to add the branch for each subscriber. (Each subsriber belongs to one branch exactly)
-  - Add the following functions to `database.py`:
-    - `get_subscriber_branch(username)` This function will get all branch information for the given username.
-    - `get_all_branch_subscribers(branch_id)` This function will get the names of all subscribers who belong to the branch with the given id. (Empty list if there are no subscribers)
-* Add relationship status between subscribers, any 2 subscribers can have any of the following relationship: romance, rivalry, friendship, family, resentment. They can also have no relationship at all.
-  - Add the following functions to `database.py`:
-    - `get_all_relationship(status)` This function will get pairs of names of subscribers that have the matching relationships.
-    - `get_relationship_of(username1, username2)` Get the relationship of the two subscribers denoted by the username if it exists, return `None` otherwise.
-* Add a mentor figure for the subscriber, the mentor is another subscriber. Every subscriber must have exactly one mentor. (A subscriber can be his own mentor.)
-  - Add the following functions to `database.py`:
-    - `get_mentor(username)` Get the name of the mentor of the given user.
-    - `get_mentees(username)` Get a list of all subscribers who have the given username as their mentor.
 
 #### Important keywords (for bonus):
 Many to Many, One to Many, One to One, query

@@ -38,6 +38,23 @@ databases, sqlalchemy, schema, model, query
 
 Implement any (or all) of the following features: (With no specific order)
 
+* For any (or all) bonuses that exist in Lab1:
+  - Update your database schemas, create database functions, and update your website's code such that all information is saved on the database.
+  - You should start by updating for the bonuses you have already implemented. If you want, you may implement more of the Lab1 bonuses.
+* Create a `"/admin"` page:
+  - This page will require a password.
+  - After inserting password, the admin user can:
+    - See a list of all secrets sorted by their task, without seeing their passwords.
+    - Delete any secret that's on the website.
+* Add a view count for each secret. (Should appear on the page and be stored in the database as well.)
+* Add a report button for secrets. The report button would be used to flag inappropriate content.
+  - After pressing the report button, a text screen will appear, allowing the user to voice his concerns.
+  - The report will be saved in the database. (You should plan out how.)
+  - If you have implemented an admin user (from the bonuses): Add a page called `"/reports"`:
+    - The page should allow an admin user to view all reports, and the text for confessions relating to them.
+    - The page will also include buttons to decline a report, removing it, and to accept a report, removing the related confession and the report.
+
+_Note_: All those features require multiple steps in order to implement, start out by planning those steps, and then implement them, make sure to test your code often.
 
 #### Important keywords (for bonus):
-Many to Many, One to Many, One to One, query
+One to Many relationship, Cookies

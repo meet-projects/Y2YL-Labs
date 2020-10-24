@@ -12,8 +12,8 @@ databases, sqlalchemy, schema, model, query
 
 ## Instructions:
 
-1. Create 2 new files called `models.py`, and `database.py`.
-   - `models.py` will contain our schemas.
+1. Create 2 new files called `model.py`, and `database.py`.
+   - `model.py` will contain our schemas and database tables.
    - `database.py` will contain our database actions. 
 2. Create a new schema (model) for the subscribers, the model should contain: password, confession.
 3. Create the following functions in `database.py`:
@@ -25,7 +25,7 @@ databases, sqlalchemy, schema, model, query
 
 5. Now let's combine the newly created database with the website from Lab1.
    - In order to do this step, you must first complete the mandatory part of Lab1.
-   - Copy `models.py` and `database.py` into your Lab1 project.
+   - Copy `model.py` and `database.py` into your Lab1 project.
    - Import `database` in your `app.py` file.
    - Replace the use of a dictionary with the appropriate database functions.
 

@@ -15,17 +15,19 @@ databases, sqlalchemy, schema, model, query
 1. Create 2 new files called `model.py`, and `database.py`.
    - `model.py` will contain our schemas and database tables.
    - `database.py` will contain our database actions. 
-2. Create a new schema (model) for the subscribers, the model should contain: password, confession.
+2. Create a new database table (in `model.py`) for the **subscribers**, the table should contain: password, confession.
+   - hint: don't forget about the `id`!
 3. Create the following functions in `database.py`:
-   - `add_confession(confession, password)` This function will create a new confession with the information given as parameters, it will create and return the confession_id for the specific confession.
+   - `add_confession(confession, password)` This function will create a new confession with the information given as parameters, it will create and return the `confession_id` for the specific confession.
    - `remove_confession(password)` This function will remove all the confessions from the database which matches the given password.
    - `get_confession(password)` This function returns the confession field if there is a confession matching the password given.
+   - *Hint: Don't forget to import model in `database.py`.*
 4. Make sure to test your code, use your functions to add rows to the database, and then use the other functions to interact with the rows you have added.
    - Move all information stored in the secrets dictionary to the database, each entry should be a row in the confessions table.
 
-5. Now let's combine the newly created database with the website from Lab1.
+5. Now let's combine the newly created database with the website from `Lab1`.
    - In order to do this step, you must first complete the mandatory part of Lab1.
-   - Copy `model.py` and `database.py` into your Lab1 project.
+   - Copy `model.py` and `database.py` into your Lab1 project folder.
    - Import `database` in your `app.py` file.
    - Replace the use of a dictionary with the appropriate database functions.
 

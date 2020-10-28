@@ -10,6 +10,9 @@ You will get to practice a bunch of your database skills, which is great!
 databases, sqlalchemy, schema, model, query
 
 
+<img src="https://cdn.lynda.com/course/604214/604214-637286219010719938-16x9.jpg" width="400px">
+
+
 ## Instructions:
 > Remember, you can view all of our lectures, labs, and pre-recorded lectures [here](https://tinyurl.com/y2yl-material)
 

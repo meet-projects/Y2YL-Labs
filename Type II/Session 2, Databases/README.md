@@ -1,5 +1,5 @@
 # Databases - Lab
-## TEMP VERSION -- NOT FINAL
+
 ## Objective: 
 In this lab, we will enhance the Confession bear website that we worked on in the previous lab.
 We will move the storage of the previous lab from a dictionary to our database.
@@ -11,8 +11,10 @@ databases, sqlalchemy, schema, model, query
 
 
 ## Instructions:
+> Remember, you can view all of our lectures, labs, and pre-recorded lectures [here](https://tinyurl.com/y2yl-material)
 
-1. Create 2 new files called `model.py`, and `database.py`.
+
+1. Create 2 new files in your main project foler, called `model.py`, and `database.py`.
    - `model.py` will contain our schemas and database tables.
    - `database.py` will contain our database actions. 
 2. Create a new database table (in `model.py`) for the **subscribers**, the table should contain: password, confession.
@@ -27,7 +29,7 @@ databases, sqlalchemy, schema, model, query
 
 5. Now let's combine the newly created database with the website from `Lab1`.
    - In order to do this step, you must first complete the mandatory part of Lab1.
-   - Copy `model.py` and `database.py` into your Lab1 project folder.
+   - Make sure `model.py` and `database.py` into your Lab1 project folder.
    - Import `database` in your `app.py` file.
    - Replace the use of a dictionary with the appropriate database functions.
 

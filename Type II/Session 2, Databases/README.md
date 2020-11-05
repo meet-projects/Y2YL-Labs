@@ -34,7 +34,7 @@ databases, sqlalchemy, schema, model, query
    - In order to do this step, you must first complete the mandatory part of Lab1.
    - Make sure `model.py` and `database.py` into your Lab1 project folder.
    - Import `database` in your `app.py` file.
-   - Replace the use of a dictionary with the appropriate database functions.
+   - Replace the use of a dictionary with the appropriate database functions. (**NOTE**: When you finish, you should no longer have the dictionary in your code.)
 
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks

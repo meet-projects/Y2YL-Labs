@@ -12,7 +12,7 @@ In this mini project, you will get a taste in how mobile development works using
 
 
 
-
+> To run your application on your phone, go to the app store - and install `Expo Client`. (Alternatively, you can run your apps from `Expo Snack` on your laptop!)
 
 ## Instructions:
 This will be the starting point - 

@@ -19,9 +19,9 @@ This will be the starting point - Starting with a simple empty template/project,
 1. Open
 2. Add a **Button** component that takes you from `screen1` to `screen2`.
 3. Add a List of your family members/friends names on `screen2`.
-  - You can use the following components:
+    - You can use the following components:
 4. Make each element (family member/friends names) **pressable** 
-  - When pressed - show an alert. (Hint: Find out how to create alerts [here]())
+    - When pressed - show an alert. (Hint: Find out how to create alerts [here]())
 
 
 
@@ -35,7 +35,7 @@ This will be the starting point - Starting with a simple empty template/project,
 - Add a Camera /take photos.
 - Add a Navigation bar (like facebook, instagram apps)
 - Convert screen1 to a Login page.
-  - With static (already set) username/password credentials.
+    - With static (already set) username/password credentials.
 
 ##### Amazing job!
 ##### Call an Instructor/TA to check your completed tasks

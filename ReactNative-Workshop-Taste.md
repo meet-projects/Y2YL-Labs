@@ -8,15 +8,15 @@ In this mini project, you will get a taste in how mobile development works using
 
 
 
-<img src="" width="400">
+<img src="https://richestsoft.com/blog/wp-content/uploads/2019/04/react-native-crop.jpg" width="600">
 
 
 
 
 
 ## Instructions:
-This will be the starting point - Starting with a simple empty template/project, ready to be manipulated
-1. Open
+This will be the starting point - 
+1. Open this [Expo Snack](To be added) - Starting with a simple empty template/project, ready to be manipulated.
 2. Add a **Button** component that takes you from `screen1` to `screen2`.
 3. Add a List of your family members/friends names on `screen2`.
     - You can use the following components:

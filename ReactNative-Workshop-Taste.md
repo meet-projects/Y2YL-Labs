@@ -2,15 +2,17 @@
 
 
 ## Objective: 
-In this mini project, you will get to experience the basic building blocks of mobile development.<br><br>
-By doing this using React Native, you will gain an understanding of how apps like Facebook, Instagram, Discord, Skype, Pinterest and more are built.
+In this mini project, you will get to experience the basic building blocks of **mobile development.**<br><br>
+By doing this using **React Native**, you will gain an understanding of how apps like Facebook, Instagram, Discord, Skype, Pinterest and more are built.
 <br>
 
 <img src="https://media.credencys.com/wp-content/uploads/2020/03/React-native-apps.jpg" width="600">
 
-Before you go ahead, how would you like to see the app you will be building on your own phone, live? <br>If so, head up to the AppStore or PlayStore and install `Expo Client`. (Alternatively, you can see the results in real time in the `Expo Snack` on your laptop just as we did in the demo!)
-
-So what are you waiting for? **Create your first mobile application!**
+Before you go ahead, would you like to see the app you will be building on your own phone, live? <br>If so, head up to the AppStore or PlayStore and install `Expo Client`.<br> 
+*Alternatively*, you can see the results in real time in the `Expo Snack` on your laptop just as we did in the demo!
+<br><br>
+So what are you waiting for?<br>
+**Let's create your first mobile application!**
 <br>
 
 ## Instructions:

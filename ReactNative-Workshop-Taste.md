@@ -13,12 +13,14 @@ In this mini project, you will get a taste in how mobile development works using
 
 ## Instructions:
 This will be the starting point - 
-1. Open this [Expo Snack](To be added) - Starting with a simple empty template/project, ready to be manipulated.
+1. Open this [Expo Snack](https://snack.expo.io/@julianbroudy/a-taste-of-react-native) - Starting with a simple empty template/project, ready to be manipulated.
 1. Add a **Button** component that takes you from `screen1` to `screen2`.
 1. Add a List of your family members/friends names on `screen2`.
     - You can use the following components:
 1. Make each element (family member/friends names) **pressable** 
     - When pressed - show an alert. (Hint: Find out how to create alerts [here]())
+
+
 
 
 
@@ -36,4 +38,8 @@ This will be the starting point -
 
 ##### Amazing job!
 ##### Call an Instructor/TA to check your completed tasks
+
+
+
+> We are providing you with a [solution to the Instructions part](https://snack.expo.io/@julianbroudy/a-taste-of-react-native---solution) here, **not to "cheat", but to use as a reference if you're stuck**, after all, this is only a taste, and our purpose is you maximize your experience as much as possible!
 

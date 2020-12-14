@@ -14,11 +14,13 @@ In this mini project, you will get a taste in how mobile development works using
 ## Instructions:
 This will be the starting point - 
 1. Open this [Expo Snack](https://snack.expo.io/@julianbroudy/a-taste-of-react-native) - Starting with a simple empty template/project, ready to be manipulated.
+    - You might need to sign up/log in in order to save your work.
 1. Add a **Button** component that takes you from `screen1` to `screen2`.
+    - Check out [Button Documentation](https://reactnative.dev/docs/handling-touches) by React Native.
 1. Add a List of your family members/friends names on `screen2`.
-    - You can use the following components:
+    - You can use the following components: [FlatList](https://reactnative.dev/docs/flatlist), [ListView](https://reactnative.dev/docs/using-a-listview), [ListItem](https://reactnativeelements.com/docs/listitem/)..etc.
 1. Make each element (family member/friends names) **pressable** 
-    - When pressed - show an alert. (Hint: Find out how to create alerts [here]())
+    - When pressed - show an alert. (Hint: Find out how to create alerts [here](https://reactnative.dev/docs/alert))
 
 
 
@@ -31,6 +33,8 @@ This will be the starting point -
 
 
 ## Bonus - If you finish early, feel free to :
+> This is not in a specific order, feel free to start with any one, and feel free to get as creative as you want in each one!  
+
 - Add a Camera /take photos.
 - Add a Navigation bar (like facebook, instagram apps)
 - Convert screen1 to a Login page.

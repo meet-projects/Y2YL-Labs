@@ -1,15 +1,17 @@
-# React Native Workshop - A Taste in Mobile Development
+# React Native Workshop - A Taste of Mobile Development
 
 
 ## Objective: 
-In this mini project, you will get a taste in how mobile development works using React Native; and create **your first mobile application!**
+In this mini project, you will get to experience the basic building blocks of mobile development.<br><br>
+By doing this using React Native, you will gain an understanding of how apps like Facebook, Instagram, Discord, Skype, Pinterest and more are built.
+<br>
 
+<img src="https://media.credencys.com/wp-content/uploads/2020/03/React-native-apps.jpg" width="600">
 
-<img src="https://richestsoft.com/blog/wp-content/uploads/2019/04/react-native-crop.jpg" width="600">
+Before you go ahead, how would you like to see the app you will be building on your own phone, live? <br>If so, head up to the AppStore or PlayStore and install `Expo Client`. (Alternatively, you can see the results in real time in the `Expo Snack` on your laptop just as we did in the demo!)
 
-
-
-> To run your application on your phone, go to the app store - and install `Expo Client`. (Alternatively, you can run your apps from `Expo Snack` on your laptop!)
+So what are you waiting for? **Create your first mobile application!**
+<br>
 
 ## Instructions:
 This will be the starting point - 
